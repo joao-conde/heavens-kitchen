@@ -1,5 +1,7 @@
 # Heaven's Kitchen 🧪
 
+**Try it [here](https://dpain.itch.io/heavens-kitchen)**
+
 <p align="center">
   <img src="https://i.imgur.com/jUjiyVf.gif" width="370" >
   <img src="https://i.imgur.com/ORQ6u7v.gif" width="370" > 
